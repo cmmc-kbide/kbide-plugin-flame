@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-flame",
+  "title": "flame",
+  "keywords": "flame, esp32, esp8266, arduino",
+  "description": "flame plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-flame/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-flame/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
