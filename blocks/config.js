@@ -1,6 +1,6 @@
 module.exports = [
     {
-        name: "flame_block",
+        name: "KY-026 FLAME SENSOR MODULE",
         blocks: [
             {
               xml: `<block type="flame_block">
