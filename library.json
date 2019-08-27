@@ -1,11 +1,11 @@
 {
   "name" : "kbide-plugin-flame",
-  "title": "flame",
+  "title": "KY-026 FLAME SENSOR MODULE",
   "keywords": "flame, esp32, esp8266, arduino",
   "description": "flame plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-flame/",
-  "author": "cmmakerclub",
+  "author": "Prawared",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-flame/",
   "version": "1.0.0",
