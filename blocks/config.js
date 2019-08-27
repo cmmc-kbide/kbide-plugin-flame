@@ -1,6 +1,6 @@
 module.exports = [
     {
-        name: "photo_resistor_block",
+        name: "flame_block",
         blocks: [
             {
               xml: `<block type="flame_block">
